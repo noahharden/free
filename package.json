@@ -1,0 +1,35 @@
+{
+  "name": "bob-v2ray-relay-free",
+  "version": "3.0.0",
+  "description": "Bob - Free V2Ray/VLESS Relay on Vercel (No Edge Functions Required)",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "v2ray",
+    "vless",
+    "vmess",
+    "relay",
+    "proxy",
+    "vercel",
+    "free",
+    "service-worker",
+    "bob"
+  ],
+  "author": "Bob - Free V2Ray Relay",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR-USERNAME/bob-v2ray-relay-free"
+  },
+  "homepage": "https://github.com/YOUR-USERNAME/bob-v2ray-relay-free#readme",
+  "bugs": {
+    "url": "https://github.com/YOUR-USERNAME/bob-v2ray-relay-free/issues"
+  }
+}
